@@ -195,7 +195,7 @@ Librerias nativas Python:
 
 __EJECUCIÓN DEL APLICATIVO DESDE LA INTERFAZ DE PROGRAMACIÓN__:
 
-Para ejecutar el app desde la consola de la interfaz de programación que se use hay que guardar en una misma carpeta en el pc los archivos de las carpetas __codigo__ y __templates__ mencionadas en este README. Una vez guardados, hay que __ejecutar el módulo APP_PPTX_1_GUI.py__.
+Para ejecutar el aplicativo desde la consola de la interfaz de programación que se use hay que guardar en una misma carpeta en el pc los archivos de las carpetas __codigo__ y __templates__ mencionadas en este README. Una vez guardados, hay que __ejecutar el módulo APP_PPTX_1_GUI.py__.
 
 
 ## __Actualización 06/04/2026__
