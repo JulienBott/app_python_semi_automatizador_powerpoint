@@ -90,14 +90,14 @@ Las limitaciones que se exponen a continuación estan previstas ser correjidas e
 
      * __Proceso de generación de Powerpoint__:
        
-       Durante cada proceso, se crean subcarpetas temporales (con timestamp) donde se almacenan las capturas antes de su inserción en PowerPoint. 
+       Durante cada proceso, se crean subcarpetas temporales (con timestamp) donde se almacenan las capturas de rangos de celdas Excel antes de su inserción en PowerPoint. 
        Estas subcarpetas se eliminan automáticamente al finalizar el proceso.
        
        Si varios usuarios utilizan simultáneamente el mismo sistema SQLite y el aplicativo asigna la misma ruta de trabajo, existe una probabilidad (baja pero     posible) de conflicto si se generan subcarpetas con el mismo nombre en paralelo.
        
      * __Acceso a capturas de muestra en la ventana de configuración de los rangos de celdas__:
        
-       En la ventana de configuración de rangos de celdas, el usuario puede generar capturas de ejemplo. Estas también crean subcarpetas temporales, que actualmente no se eliminan automáticamente.
+       En la ventana de configuración de rangos de celdas, el usuario puede acceder a capturas de ejemplo. Estas también requieren crear subcarpetas temporales, que actualmente no se eliminan automáticamente.
 
        La resolución de este punto requiere una mejora en el sistema de GUI basado en __tkinter_utils__, incorporando gestión de cierre de ventanas (protocol) para ejecutar rutinas de limpieza.
 
