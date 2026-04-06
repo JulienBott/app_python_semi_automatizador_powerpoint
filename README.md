@@ -59,7 +59,7 @@ Poppler es una librería open-source ampliamente utilizada para el procesamiento
 
 La instalación de Poppler se detalla en la __guía de usuario__ (subcarpeta v1.0/documentacion_otra).
 
-Dejo aqui el enlace para Poppler (windows) que tambien sale en la guia de usuario:
+Enlace de descarga para Windows (también incluido en la guía de usuario):
 
 https://github.com/oschwartz10612/poppler-windows/releases
 
