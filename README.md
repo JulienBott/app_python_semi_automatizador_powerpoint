@@ -57,8 +57,6 @@ El aplicativo utiliza __Poppler__ para la conversión de archivos PDF a imágene
 
 Poppler es una librería open-source ampliamente utilizada para el procesamiento de PDF.
 
-__No es malware ni software malicioso__.
-
 La instalación de Poppler se detalla en la __guía de usuario__ (subcarpeta v1.0/documentacion_otra).
 
 Dejo aqui el enlace para Poppler (windows) que tambien sale en la guia de usuario:
