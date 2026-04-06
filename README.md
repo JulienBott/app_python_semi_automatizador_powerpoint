@@ -144,17 +144,17 @@ Se encuentra una carpeta llamada __v1.0__ y dentro de la misma se encuentran las
     * listado de rutinas y funciones con detalle de argumentos (args y kwargs) y retornos (en caso de funciones).
     * diagnóstico de dependencias de objetos.
     * explicación de las clases propias que componen la GUI.
-    * ejemplo detallado del proceso de captura de rangos mediante Poppler y OpenCV.
+    * ejemplo detallado del proceso de captura de rangos de celdas mediante Poppler y OpenCV.
 
 
 * __templates__
 
-  Contiene los archivos que son necesarios para poder ejecutar el app:
+  Contiene los archivos que son necesarios para poder ejecutar el aplicativo:
 
   * __ico_app__: fichero .ico para el logo del aplicativo.
   * __ico_app_tapar_pluma_tkinter.ico__: fichero .ico para tapar la pluma tkinter en los root, toplevels y mesaagebox.
   * __PLANTILLA_CONFIG.xlsx__: pantilla excel para descargar las configuraciones del sistema SQlite importado en el aplicativo.
-  * __pdf_guia_usuario.pdf__: fichero PDF para poder descargar la guia de usuario desde el aplicativo (es el mismo fichero que el que se encuentra en la subcarpeta __documentacion_otra__.
+  * __pdf_guia_usuario.pdf__: fichero PDF para poder descargar la guia de usuario desde el aplicativo (es el mismo fichero que el que se encuentra en la subcarpeta __documentacion_otra__ en la carpeta v1.0).
   * __img_guia_usuario.png__: fichero .png para incrustar imagenes en los botones de la GUI.
   * __img_config.png__: fichero .png para incrustar imagenes en los botones de la GUI.
   * __img_boton_ver.png__: fichero .png para incrustar imagenes en los botones de la GUI.
@@ -176,11 +176,11 @@ Se encuentra una carpeta llamada __v1.0__ y dentro de la misma se encuentran las
   * __img_messagebox_showinfo.png__: fichero .png para incrustar imagenes en los messagebox propios de la GUI.
 
 
-  Contiene, asimismo, el fichero __APP_SEMI_AUTOMATIZADOR_POWERPOINT.spec__ que se ha de usar para poder compilar el app en .exe (ver el manual __MANUAL_PARA_COMPILAR_EL_APP_EN_EJECUTABLE_V1.0__)
+  Contiene, asimismo, el fichero __APP_SEMI_AUTOMATIZADOR_POWERPOINT.spec__ que se ha de usar para poder compilar el aplicativo en .exe (ver el manual __MANUAL_PARA_COMPILAR_EL_APP_EN_EJECUTABLE_V1.0__)
   
 ## __REQUISITOS SISTEMA Y LIBRERIAS PYTHON__
 
-El app se ha desarrollado y probado en entorno Windows (10) usando la versión 3.9.5 de Python. No se ha probado con otros sistemas operativos por lo que podria haber errores.
+El aplicativo se ha desarrollado y probado en entorno Windows (10) usando la versión 3.9.5 de Python. No se ha probado con otros sistemas operativos por lo que podria haber errores.
 
 Librerias que requieren instalación (pip install):
 
