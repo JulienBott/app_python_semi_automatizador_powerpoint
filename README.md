@@ -1,5 +1,5 @@
 
-## __DESCRIPCIÓN RESUMIDA__:
+## __DESCRIPCIÓN__:
 
 Este aplicativo desarrollado en Python __automatiza la captura del contenido de rangos de celdas Excel y su colocación en slides PowerPoint__, con coordenadas y dimensiones configurables por el usuario.
 
