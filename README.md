@@ -19,6 +19,8 @@ El aplicativo incluye un sistema de __logs de warnings y errores__ que se genera
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
+## Muestra
+
 Tras __importar un sistema SQLite__ y mediante una interfaz gráfica intuitiva, el usuario puede:
   * configurar múltiples reports PowerPoint.
   * asociar varios Excel de origen a cada report.
@@ -35,7 +37,8 @@ Se genera un PowerPoint donde:
   * el usuario __ajusta posición y tamaño manualmente__ de cada pantallazo
   * el aplicativo __recupera estas coordenadas y dimensiones y las guarda__ en el sistema SQLite
 
-<img width="1317" height="550" alt="image" src="https://github.com/user-attachments/assets/1704c01b-e0f8-46dc-9966-d64d31a521cc" />
+<img width="1154" height="451" alt="image" src="https://github.com/user-attachments/assets/a69b4992-c84d-41d6-b929-68991f9b25f9" />
+
 <img width="1157" height="383" alt="image" src="https://github.com/user-attachments/assets/aa3b1678-73a4-404b-9c17-927da67ab212" />
 
 Tras guardar las coordenadas y dimensiones en el sistema SQlite, el __report PowerPoint queda completamente configurado__ y listo para ejecuciones futuras.
