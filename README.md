@@ -154,30 +154,7 @@ Se encuentra una carpeta llamada __v1.0__ y dentro de la misma se encuentran las
 
   Contiene los archivos que son necesarios para poder ejecutar el aplicativo:
 
-  * __ico_app__: fichero .ico para el logo del aplicativo.
-  * __ico_app_tapar_pluma_tkinter.ico__: fichero .ico para tapar la pluma tkinter en los root, toplevels y mesaagebox.
-  * __PLANTILLA_CONFIG.xlsx__: pantilla excel para descargar las configuraciones del sistema SQlite importado en el aplicativo.
-  * __pdf_guia_usuario.pdf__: fichero PDF para poder descargar la guia de usuario desde el aplicativo (es el mismo fichero que el que se encuentra en la subcarpeta __documentacion_otra__ en la carpeta v1.0).
-  * __img_guia_usuario.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_config.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_boton_ver.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_accion_pptx.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_boton_add.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_boton_clear.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_guardar.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_abrir_fichero.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_update_datos_config.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_clean_rango_celdas.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_guardar_id.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_eliminar_id.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_guardar_ruta.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_eliminar_ruta.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_update_ruta.png__: fichero .png para incrustar imagenes en los botones de la GUI.
-  * __img_messagebox_askokcancel.png__: fichero .png para incrustar imagenes en los messagebox propios de la GUI.
-  * __img_messagebox_showwarning.png__: fichero .png para incrustar imagenes en los messagebox propios de la GUI.
-  * __img_messagebox_showerror.png__: fichero .png para incrustar imagenes en los messagebox propios de la GUI.
-  * __img_messagebox_showinfo.png__: fichero .png para incrustar imagenes en los messagebox propios de la GUI.
-
+  Son esenciamente archivos .ico, .png, un fichero excel y un pdf.
 
   Contiene, asimismo, el fichero __APP_SEMI_AUTOMATIZADOR_POWERPOINT.spec__ que se ha de usar para poder compilar el aplicativo en .exe (ver el manual __MANUAL_PARA_COMPILAR_EL_APP_EN_EJECUTABLE_V1.0__)
   
@@ -191,7 +168,8 @@ Librerias que requieren instalación (pip install):
 
 Librerias nativas Python:
 
-<img width="131" height="449" alt="image" src="https://github.com/user-attachments/assets/e369aaf1-ebe0-4d07-884f-f2e3cc129dee" />
+<img width="129" height="433" alt="image" src="https://github.com/user-attachments/assets/9d1ba2ff-dbce-4c5e-b2b4-b68630263adc" />
+
 
 
 __EJECUCIÓN DEL APLICATIVO DESDE LA INTERFAZ DE PROGRAMACIÓN__:
