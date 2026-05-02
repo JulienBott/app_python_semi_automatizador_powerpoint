@@ -185,5 +185,14 @@ Tareas pendientes (en curso):
  * elaboraración del diseño funcional.
  * corrección de las limitaciones expuestas y desarrollo  de las futuras mejoras comentadas.
 
+## __Actualización 02/05/2026__
+
+Las tareas pendientes expuestas en la actualización del __06/04/2026__ quedan pospuestas.
+ 
+Actualmente, mi foco  está en el desarrollo de un nuevo proyecto que publicare en breve en Github.
+ 
+Una vez finalizado dicho proyecto realizare los upgrades comentados.
+
+
 
 
