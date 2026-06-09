@@ -193,6 +193,19 @@ Actualmente, mi foco  está en el desarrollo de un nuevo proyecto que publicare 
  
 Una vez finalizado dicho proyecto realizare los upgrades comentados.
 
+## __Actualización 09/06/2026__
+
+Las tareas pendientes y los upgrades expuestos en las actualizaciones anteriores quedan __cancelados de forma definitiva__.
+
+Este repositorio, así como el resto de mis proyectos públicos, entran en estado de depreciación inmediata y soporte cero.
+
+No se publicarán nuevas herramientas, versiones ni actualizaciones en esta plataforma.
+
+Agradezco el interés de quienes valoraron , mis códigos con fines empresariales y a uso particular.
+
+
+
+
 
 
 
