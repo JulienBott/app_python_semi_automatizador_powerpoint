@@ -199,9 +199,9 @@ Las tareas pendientes y los upgrades expuestos en las actualizaciones anteriores
 
 Este repositorio, así como el resto de mis proyectos públicos, entran en estado de depreciación inmediata y soporte cero.
 
-No se publicarán nuevas herramientas, versiones ni actualizaciones en esta plataforma.
+__No se publicarán nuevas herramientas, versiones ni actualizaciones en Github__..
 
-Agradezco el interés de quienes valoraron , mis códigos con fines empresariales y a uso particular.
+Agradezco el interés de quienes valoraron mis códigos con fines empresariales y a uso particular.
 
 
 
